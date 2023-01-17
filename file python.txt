@@ -19,3 +19,7 @@ import plotly as px
 mbak dini ngubah code hari rabu
 
 import matplotlib as plt
+
+hari kamis mbak dini ngubah code
+
+import numpy as np

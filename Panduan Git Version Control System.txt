@@ -1,0 +1,30 @@
+1. Cara mendaftar akun git : https://github.com/ -> sign up -> isi email yang belum dipakai -> create password -> create username -> verification code di email
+2. Download git : https://git-scm.com/download/win -> pilih click here to download, lalu tunggu sampai selesai
+3. Instalasi : next terus sampe klik tombol install (tanpa ceklis atau no ceklis apapun) sampai selesai instalasi. lalu tidak perlu ceklis view release note
+4. Cek version : git --version (kalo udah ke install)
+5. cek email global, git config --global user.email
+6. Cara set email global, git config --global user.email "email_anda@gmail.com" lalu cek langkah 5 lagi
+7. Cara set user.name, git config --global user.name "nama_user_name_anda"
+8. Lalu cek nama user name, git config --global user.name
+9. Buka CMD, lalu masuk ke folder yang ingin dituju, misal F, lalu cd nama_folder
+10. kalau sudah masuk, lakukan git init
+11. git status untuk cek perubahan
+12. git branch untuk cek posisi staging
+13. untuk pindah staging, git checkout nama_staging
+14. hapus staging tapi jng ada di staging itu, git checkout -d nama_staging
+15. kalau mau buat staging secara langsung, git checkout -b raif
+
+Lalu semisal ingin nge clone dari github,
+1. dari isi file github yang kosongan, lakukan copy alamat githubnya lalu di cmd ketik
+git clone + ctrl + v lalu enter
+2. git status, lalu git add ., lalu git commit -m "komen"
+3. git log --oneline
+4. git push lalu pilih 1 sebagai web browser kemudian refresh website githubnya
+5. buat branch baru , git branch untuk cek posisi staging, buat branch baru : git checkout -b staging
+6. lalu otomatis di staging ini isinya file2 yang berasal dari main atau master
+7. misal buat file baru di staging, lalu git status -> git add . -> git commit -m "file baru di staging" -> git status -> git push origin nama_branch
+8. misal ada perubahan code dari tim lain di github atau bahkan penambahan file, maka lakukan git pull origin staging 
+
+
+ketika ada update maka open cmd dan lakukan langkah-langkah berikut :
+git status -> git add . -> git status -> git commit -m "pesan perubahan ( bisa apapun isinya )" -> git status -> git log --oneline atau git log --online -> git status -> git push origin name_branch
