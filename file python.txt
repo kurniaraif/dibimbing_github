@@ -15,3 +15,7 @@ import seaborn as sns
 senior nambahin code baru hari selasa
 
 import plotly as px
+
+mbak dini ngubah code hari rabu
+
+import matplotlib as plt
