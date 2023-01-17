@@ -7,3 +7,8 @@ Mbak dini udah ngebuat code baru di hari ini
 ada editan terbaru dari mbak dini
 
 import pandas as pd
+
+Hari ini lead menambahkan code terbaru berupa :
+
+import seaborn as sns
+
