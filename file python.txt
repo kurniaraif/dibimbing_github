@@ -3,3 +3,7 @@ update file github di local, membuat code python
 ada tambahan code dari lead
 
 Mbak dini udah ngebuat code baru di hari ini
+
+Hari ini lead menambahkan code terbaru berupa :
+
+import seaborn as sns
