@@ -12,3 +12,6 @@ Hari ini lead menambahkan code terbaru berupa :
 
 import seaborn as sns
 
+senior nambahin code baru hari selasa
+
+import plotly as px
