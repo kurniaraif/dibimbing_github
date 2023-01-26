@@ -40,3 +40,9 @@ import sklearn.imblearn as imb
 #pakai librarie imbalance data
 #mbak indah sudah selesai ngoding library imbalance data
 
+#mas raif nambahin coding lagi
+
+import statistics as stat
+
+#coding statistic library ditambahkan
+
