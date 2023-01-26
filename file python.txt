@@ -52,3 +52,5 @@ import numpy as np
 
 #menambahkan numpy
 
+#mbak feby ngelakuin perubahan di stagingnya mbak feby
+
