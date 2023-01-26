@@ -46,3 +46,9 @@ import statistics as stat
 
 #coding statistic library ditambahkan
 
+#mas raif ngoding lagi hari ini
+
+import numpy as np
+
+#menambahkan numpy
+
