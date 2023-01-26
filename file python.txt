@@ -1,1 +1,4 @@
 update file github di local, membuat code python
+
+#import file pandas
+import pandas as pd
