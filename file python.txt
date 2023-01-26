@@ -2,3 +2,8 @@ update file github di local, membuat code python
 
 #import file pandas
 import pandas as pd
+
+#import file seaborn
+import seaborn as sns
+
+#update kak raif
