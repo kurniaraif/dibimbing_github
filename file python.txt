@@ -33,4 +33,10 @@ import sklearn.confusion matrix
 run_model(x_train, x_test, y_train, y_test)
 #selesai lakuin evaluasi
 
+#mas raif nambahin coding lagi
+
+import statistics as stat
+
+#coding statistic library ditambahkan
+
 
