@@ -21,8 +21,16 @@ import xgboost
 
 #sudah selesai untuk hari ini lakuin code machine learning
 
+#code dari mas raif
+
+import plotly as px
+
+#selesai coding ploylt
+
 #lakuin evaluasi confusion matrix
 import sklearn.confusion matrix
 
 run_model(x_train, x_test, y_train, y_test)
 #selesai lakuin evaluasi
+
+
