@@ -33,4 +33,10 @@ import sklearn.confusion matrix
 run_model(x_train, x_test, y_train, y_test)
 #selesai lakuin evaluasi
 
+#ngoding punya mbak indah ada update
+
+import sklearn.imblearn as imb
+
+#pakai librarie imbalance data
+#mbak indah sudah selesai ngoding library imbalance data
 
