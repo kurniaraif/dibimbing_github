@@ -20,3 +20,9 @@ import catboost
 import xgboost
 
 #sudah selesai untuk hari ini lakuin code machine learning
+
+#code dari mas raif
+
+import plotly as px
+
+#selesai coding ploylt
