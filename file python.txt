@@ -12,3 +12,11 @@ import seaborn as sns
 import matplotlib as plt
 
 #sudah selesai import code matplotlib
+
+#hari ini ngoding ML
+import sklearn
+
+import catboost
+import xgboost
+
+#sudah selesai untuk hari ini lakuin code machine learning
